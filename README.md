@@ -1,6 +1,6 @@
 # LunarCore-BrawlStars
 
-After I saw Tail's nodebrawl-core <a href="url">github.com/tailsjs/nodebrawl-core</a> server started think myself. what If I do similiar Packet Management in Python too? and yea it's here Let me explain
+After I saw Tail's <a href="https://github.com/tailsjs/nodebrawl-core">nodebrawl-core</a> server started think myself. what If I do similiar Packet Management in Python too? and yea it's here Let me explain
 
 It's works like this
 
